@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Kenneth! 👋
 
 My name is Kenneth, and I'm a trained computer scientist interested in all things cloud and tech.
 
@@ -11,8 +11,7 @@ My name is Kenneth, and I'm a trained computer scientist interested in all thing
 - 😄 Pronouns: ...
 
 <!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenneth&show_icons=true&theme=radical&hide_rank=false)]
-(https://github.com/anuraghazra/github-readme-stats)
+[![Kenneth's gitHub stats](https://github-readme-stats.vercel.app/api?username=kenneth&count_private=true&show_icons=true&theme=radical&hide_rank=false)(https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **KennethN24/KennethN24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
