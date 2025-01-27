@@ -1,6 +1,6 @@
 ## Hi, I'm Kenneth! 👋
 
-My name is Kenneth, and I'm a trained computer scientist interested in all things cloud and tech.
+I'm a trained computer scientist interested in all things cloud and tech.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
