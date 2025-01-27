@@ -1,4 +1,4 @@
-### Hi, I'm Kenneth! 👋
+## Hi, I'm Kenneth! 👋
 
 My name is Kenneth, and I'm a trained computer scientist interested in all things cloud and tech.
 
